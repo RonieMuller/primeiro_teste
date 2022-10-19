@@ -1,2 +1,2 @@
-# primeiro_teste
-Repositório criado na segunda aula
+## primeiro_teste
+*Repositório criado na segunda aula*
